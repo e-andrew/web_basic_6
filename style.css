@@ -1,0 +1,17 @@
+﻿.outer-class {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.container-class {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.item-class{
+    padding: 5px;
+}
